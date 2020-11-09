@@ -21,4 +21,5 @@ while True:
     light.set_pixel_color(8, light.rgb(245,66,212))
     pause(300)
     light.set_pixel_color(9, light.rgb(242,48,78))
-
+    pause(300)
+    light.clear()
